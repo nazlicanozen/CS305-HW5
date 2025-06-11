@@ -1,5 +1,9 @@
 # Scheme Interpreter
 
+## IMPORTANT DISCLAIMER
+
+THIS REPOSITORY IS ONLY FOR EDUCATIONAL USE. PLAGIARISM WILL NOT BE TOLERATED.
+
 ## Overview
 
 This project is a Scheme interpreter implemented in the Scheme language.
