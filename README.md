@@ -33,7 +33,7 @@ repl> ((lambda (n) (+ n 2)) 5)
 repl: 7
 
 repl> (define incx (lambda (n) (+ n x)))
-cs305: incx
+repl: incx
 
 repl> (incx 1)
 repl: 6
